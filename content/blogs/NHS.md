@@ -11,4 +11,6 @@ categories:
 - ''
 ---
 
-As 
+As
+
+<img src="../../static/img/Network Mapping.png" width="1093" />

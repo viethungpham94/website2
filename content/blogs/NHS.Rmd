@@ -11,4 +11,8 @@ categories:
 - ''
 ---
 
-As 
+As
+
+```{r, echo=FALSE}
+knitr::include_graphics("D:/MBA/Term 3/DSfB/website2/static/img/Network Mapping.png")
+```
