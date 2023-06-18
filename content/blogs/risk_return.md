@@ -17,7 +17,6 @@ categories:
 
 
 
-
 # Returns of financial stocks
 
 Let's choose the [Dow Jones Industrial Average (DJIA)](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average) stocks and their ticker symbols and download some data. Besides the thirty stocks that make up the DJIA, we will also add `SPY` which is an SP500 ETF (Exchange Traded Fund).
@@ -137,7 +136,7 @@ myStocks_returns_monthly %>%
   NULL
 ```
 
-<img src="staticunnamed-chunk-2-1.png" width="648" style="display: block; margin: auto;" />
+<img src="staticunnamed-chunk-1-1.png" width="648" style="display: block; margin: auto;" />
 
 
 <img src="staticrisk_return-1.png" width="648" style="display: block; margin: auto;" />

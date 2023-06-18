@@ -10,9 +10,6 @@ categories:
 - ''
 - ''
 ---
-```{r, echo=FALSE}
-knitr::opts_chunk$set(echo = TRUE, fig.path = "static")
-```  
 
 ```{r, setup, echo=FALSE}
 knitr::opts_chunk$set(
@@ -28,6 +25,8 @@ knitr::opts_chunk$set(
   fig.height=6.75,
   fig.align = "center"
 )
+
+knitr::opts_chunk$set(echo = TRUE, fig.path = "static")
 ```
 
 
