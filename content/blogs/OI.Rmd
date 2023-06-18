@@ -11,6 +11,10 @@ categories:
 - ''
 ---
 
+```{r, echo=FALSE}
+knitr::opts_chunk$set(echo = TRUE, fig.path = "static")
+```
+
 One of my most proud achievement during my time at Strategy& were my "Reimagine the Possible" award. This were given as a recognition for my effort to successfully lead a team of technical consultants to revolutionise how our digital offerings on operational and financial management analytics could be more effective for top leadership to make informed strategic decisions. Here are some key challenges we were able to solve with our latest digital offerings
 
 The first key challenge was to establish a zero-base baselining the total cost of doing businesses across the organisation. Here is an example analytical output where human efforts are quantified in FTE (full-time employee i.e., time spent on the activities) and cost (per salary/human cost paid) for an organisation with 1000+ employees

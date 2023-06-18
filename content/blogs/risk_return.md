@@ -10,7 +10,7 @@ categories:
 - ''
 - ''
 ---
-  
+
 
 
 
@@ -79,7 +79,7 @@ glimpse(myStocks) # examine the structure of the resulting data frame
 ```
 
 ```
-## Rows: 181,033
+## Rows: 181,065
 ## Columns: 8
 ## Groups: symbol [32]
 ## $ symbol   <chr> "MMM", "MMM", "MMM", "MMM", "MMM", "MMM", "MMM", "MMM", "MMM"…
@@ -137,7 +137,7 @@ myStocks_returns_monthly %>%
   NULL
 ```
 
-<img src="/blogs/risk_return_files/figure-html/unnamed-chunk-1-1.png" width="648" style="display: block; margin: auto;" />
+<img src="staticunnamed-chunk-2-1.png" width="648" style="display: block; margin: auto;" />
 
 
-<img src="/blogs/risk_return_files/figure-html/risk_return-1.png" width="648" style="display: block; margin: auto;" />
+<img src="staticrisk_return-1.png" width="648" style="display: block; margin: auto;" />

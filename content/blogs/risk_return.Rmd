@@ -10,7 +10,9 @@ categories:
 - ''
 - ''
 ---
-  
+```{r, echo=FALSE}
+knitr::opts_chunk$set(echo = TRUE, fig.path = "static")
+```  
 
 ```{r, setup, echo=FALSE}
 knitr::opts_chunk$set(

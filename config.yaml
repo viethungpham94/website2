@@ -74,7 +74,7 @@ params:
       - name: Operational Intelligence
         url: blogs/OI
       - name: Expertise Network
-        url: blogs/EN
+        url: blogs/NHS
       - name: Mass Shooting Analysis
         url: blogs/MSA
     menu: Menu
