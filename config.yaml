@@ -87,14 +87,14 @@ params:
         subtitle: My Professional Journey Summary
         title: Profile
         url: blogs/Intro
-      - image: pic02.jpg
+      - image: Biz.jpg
         subtitle: Enhancing Business Performance Visibility with Tableau's Interactive Dashboard and Big Data 
         title: Operational Intelligence
         url: blogs/OI
-      - image: pic03.jpg
-        subtitle: Support NHS
+      - image: Biz.jpg
+        subtitle: Enables Expert Network Mapping with PowerBI for an NHS Trust
         title: Expertise Network
-        url: blogs/magna
+        url: blogs/NHS
       - image: spices.jpg
         subtitle: LBS Coursework - Analysis of Dow Jones Industrial Average (DJIA)
         title: Sample Analysis - Risk-Return of DJIA Stock
