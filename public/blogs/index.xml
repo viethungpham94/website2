@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Portfolio dsb2023 website for Kostis Christodoulou</title>
+    <link>https://pham-viet-hung.netlify.app/blogs/</link>
+    <description>Recent content in Blogs on Portfolio dsb2023 website for Kostis Christodoulou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pham-viet-hung.netlify.app/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Expertise Network</title>
+      <link>https://pham-viet-hung.netlify.app/blogs/nhs/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pham-viet-hung.netlify.app/blogs/nhs/</guid>
+      <description>During LBS, I also engaged with an NHS Trust on a part-time analytic engagement, with the goal to identify and visualise the network of experts on different fields across the Trust, with a focus on their continuous improvement background and interest. For convenience, we worked only on excel and PowerBI so we could easily handover the tool to the NHS Trust after the engagement. Here is the sample output of the analysis</description>
+    </item>
+    
+    <item>
+      <title>Operational Intelligence</title>
+      <link>https://pham-viet-hung.netlify.app/blogs/oi/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pham-viet-hung.netlify.app/blogs/oi/</guid>
+      <description>One of my most proud achievement during my time at Strategy&amp;amp; were my &amp;ldquo;Reimagine the Possible&amp;rdquo; award. This were given as a recognition for my effort to successfully lead a team of technical consultants to revolutionise how our digital offerings on operational and financial management analytics could be more effective for top leadership to make informed strategic decisions. Here are some key challenges we were able to solve with our latest digital offerings</description>
+    </item>
+    
+    <item>
+      <title>Profile</title>
+      <link>https://pham-viet-hung.netlify.app/blogs/intro/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pham-viet-hung.netlify.app/blogs/intro/</guid>
+      <description>Graduated in 2016 holding a BSc in Mathematics with Economics from University College London, I faced a professional career dilemma where I look to continue applying my analytic and problem-solving skills, but with a focus on practical (vs academic) outputs, clear goals and uses, and with a focus on societal impact.
+“Consulting is vocational, we grow our people, we coach our clients, we produce lasting impact on the society and the economy… and we certainly require smart and analytical independent thinker”, were what convinced me to join Strategy&amp;amp;.</description>
+    </item>
+    
+    <item>
+      <title>Risk-Return of DJIA stocks</title>
+      <link>https://pham-viet-hung.netlify.app/blogs/rr/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pham-viet-hung.netlify.app/blogs/rr/</guid>
+      <description>Returns of financial stocks Let&amp;rsquo;s choose the Dow Jones Industrial Average (DJIA) stocks and their ticker symbols and download some data. Besides the thirty stocks that make up the DJIA, we will also add SPY which is an SP500 ETF (Exchange Traded Fund).
+We will use the rvest package to scrape the Wikipedia page for the constituents of DJIA
+djia_url &amp;lt;- &amp;#34;https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average&amp;#34; #get tables that exist on URL tables &amp;lt;- djia_url %&amp;gt;% read_html() %&amp;gt;% html_nodes(css=&amp;#34;table&amp;#34;) # parse HTML tables into a dataframe called djia.</description>
+    </item>
+    
+  </channel>
+</rss>
