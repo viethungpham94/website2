@@ -1,0 +1,32 @@
+---
+title: "Profile"
+date: "2021-09-30"
+description: "My Professional Experience Summary"
+draft: no
+image: LBS.jpg
+keywords: ''
+slug: Intro
+categories:
+- ''
+- ''
+---
+
+
+```r
+knitr::include_graphics("/img/pic1.jpg",error=FALSE)
+```
+
+![](../../../../../../img/pic1.jpg)<!-- -->
+
+Graduated in 2016 holding a bachelor degree in Mathematics with Economics from University College London, 
+
+
+“Consulting is vocational, we grow our people, we coach our client, we produce lasting impact on the society and the economy” 
+
+
+With Strategy&, I have 
+
+2021 - 
+
+In July 2022, I started my London Business School adventure 
+
