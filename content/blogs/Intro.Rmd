@@ -1,6 +1,6 @@
 ---
 title: "Profile"
-date: "2021-09-30"
+date: "2023-06-18"
 description: "My Professional Experience Summary"
 draft: no
 image: journey.jpg

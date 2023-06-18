@@ -84,11 +84,11 @@ params:
     enable: yes
     showcase:
       - image: lbs.jpg
-        subtitle: My story with Strategy& and London Business School
+        subtitle: My Professional Journey Summary
         title: Profile
         url: blogs/Intro
       - image: pic02.jpg
-        subtitle: Built a  
+        subtitle: Enhancing Business Performance Visibility with Tableau's Interactive Dashboard and Big Data 
         title: Operational Intelligence
         url: blogs/OI
       - image: pic03.jpg
