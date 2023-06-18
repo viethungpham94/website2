@@ -2,13 +2,14 @@
 title: "Expertise Network"
 date: "2023-06-18"
 description: Enables Expert Network Mapping with PowerBI for an NHS Trust
-draft: no
+output: html_notebook
 image: network.jpg
 keywords: ''
 slug: NHS
 categories:
 - ''
 - ''
+draft: no
 ---
 
 During LBS, I also engaged with an NHS Trust on a part-time analytic engagement, with the goal to identify and visualise the network of experts on different fields across the Trust, with a focus on their continuous improvement background and interest. For convenience, we worked only on excel and PowerBI so we could easily handover the tool to the NHS Trust after the engagement. Here is the sample output of the analysis
